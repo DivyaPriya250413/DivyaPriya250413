@@ -1,44 +1,43 @@
-## Hi there 👋
+ <!-- Divyapriya's GitHub Profile README -->
 
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff4b4b&height=220&section=header&text=BHARATHI%20B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=ff4b4b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=DIVYAPRIYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%" />
 
 </div>
 
 <div align="center">
 
-### `LEARNING • CREATING • BUILDING`
+### `BUILDING • LEARNING • CREATING`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Turning+Ideas+Into+Working+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;AWS+Cloud+Enthusiast;Building+Web+Applications;Exploring+Cloud+Computing;Turning+Ideas+Into+Projects" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👩‍💻 About Me
 
-Hi! I'm **Divyapriya S**, a B.Tech Information Technology graduate and aspiring **Java Developer**.
+Hi! I'm **Divyapriya**, a B.Tech Information Technology graduate interested in Software Development and Cloud Engineering.
 
-I enjoy building practical applications using Python, Flask, web technologies and cloud platforms.
+I enjoy building web applications, exploring AWS services, and gaining hands-on experience through practical projects.
 
-- 🔭 Building real-world software projects
-- 🐍 Focused on Java Development
-- 🌐 Interested in Full Stack Development
-- ☁️ Exploring AWS & Cloud Computing
-- 🤖 Interested in AI & NLP
-- 💡 Practicing Data Structures & Algorithms
-- 🚀 Always learning and improving
+- 💻 Interested in Software and Web Development
+- ☁️ Learning AWS Cloud Computing
+- 🚀 Building practical projects and cloud labs
+- 🌱 Improving my Java, JavaScript, and problem-solving skills
+- 🔐 Exploring cloud security, monitoring, and access management
+- 🎯 Looking for full-time entry-level opportunities in Software Development and Cloud Engineering
 
-> **"Write code that solves real problems."**
+> **"Learn continuously. Build practically. Grow confidently."**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👩‍💻 Programming Languages
 
 <p align="left">
 
@@ -50,7 +49,7 @@ I enjoy building practical applications using Python, Flask, web technologies an
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 
 </p>
 
@@ -58,7 +57,7 @@ I enjoy building practical applications using Python, Flask, web technologies an
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 </p>
 
@@ -72,31 +71,47 @@ I enjoy building practical applications using Python, Flask, web technologies an
 
 ---
 
+# ☁️ AWS Cloud Skills
+
+<div align="left">
+
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/Amazon%20SNS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+
+</div>
+
+- Launching and configuring EC2 instances
+- Hosting static websites using Amazon S3
+- Exploring IAM users, roles, and bucket policies
+- Monitoring EC2 metrics using Amazon CloudWatch
+- Learning SNS notifications and AWS Amplify
+
+---
+
 # 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## ☕ The Coffee & Me
+### ☁️ Secure Static Website Hosting on Amazon S3
 
-Full-stack web application for managing coffee products, customers and orders.
+Hosted a static website using Amazon S3 and explored bucket policies, permissions, and public/private access controls.
 
-**Tech:**
-
-`Node.js` `Express.js` `MongoDB` `HTML` `CSS` `JavaScript`
+**Tech:** `AWS S3` `IAM` `Bucket Policies`
 
 </td>
-
 <td width="50%">
 
-## 🚌 Campus Bus Tracker (Android App)
+### 📊 Real-Time EC2 CPU Alerting
 
-Built student and admin modules for secure access, bus management, location updates, and transport announcements.
+Explored EC2 CPU monitoring with CloudWatch alarms and SNS notifications for alerting.
 
-**Tech:**
-
-`Java` `Android Studio` `XML` `Firebase` `Google Maps API`
+**Tech:** `EC2` `CloudWatch` `SNS`
 
 </td>
 </tr>
@@ -104,17 +119,41 @@ Built student and admin modules for secure access, bus management, location upda
 <tr>
 <td width="50%">
 
-## 🚅 Train Food Delivery Application (Android App)
+### 🚌 Campus Bus Tracker
 
-Implemented an order management workflow supporting order creation, status updates, and delivery tracking.
+An Android application designed to track college buses and provide location and arrival updates.
 
-**Tech:**
-
-`Java` `Android Studio` `Google Maps API`
+**Tech:** `Java` `Firebase` `Google Maps` `Android Studio`
 
 </td>
-
 <td width="50%">
+
+### ☕ The Coffee & Me
+
+A full-stack web application for managing coffee products and customer orders.
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Government Job Find Website
+
+A web project designed to help users explore government job opportunities.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🚆 Train Food Delivery Application
+
+An Android application concept for ordering food during train journeys.
+
+**Tech:** `Java` `Android Studio`
 
 </td>
 </tr>
@@ -122,13 +161,22 @@ Implemented an order management workflow supporting order creation, status updat
 
 ---
 
+# 📜 Certifications & Badges
+
+- 🏅 AWS Certified Cloud Practitioner learning badge / achievement
+- ☁️ AWS Educate Introduction to Cloud 101 — Training Badge
+- 🤖 AWS Educate Introduction to Generative AI — Training Badge
+- 🌐 Responsive Web Design Certificate
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharathibalu19&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyaPriya250413&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathibalu19&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaPriya250413&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -138,56 +186,67 @@ Implemented an order management workflow supporting order creation, status updat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bharathibalu19&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=DivyaPriya250413&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ---
 
 # 🧠 Currently Learning
 
 ```text
-🍵 Java Development
 ☁️ AWS Cloud Computing
-🧩 Data Structures & Algorithms
-🤖 AI & Machine Learning
-🌐 Full Stack Development
+💻 Java Programming
+🌐 React.js & Web Development
+🗄️ SQL & Database Management
+🔐 AWS IAM & Cloud Security
+📊 CloudWatch Monitoring & SNS
+🚀 Building Practical Projects
 ```
 
+---
+
 # 🎓 Education
-Degree	Institution	Duration
-B.Tech – Information Technology	E.G.S. Pillay Engineering College	2022 – 2026
 
-# 🏅 Internship & Certifications
+| Degree | Institution | Duration |
+|---|---|---|
+| B.Tech – Information Technology | E.G.S. Pillay Engineering College | 2022–2026 |
 
+---
 
-Google - Android Development Intern | Virtual | 📆 Jul - Sep 2024
+# 🏆 Career Goals
 
--Completed a 10-week virtual internship focused on Java fundamentals and Android application development.
+- Develop practical software and cloud-based solutions.
+- Strengthen AWS and programming fundamentals.
+- Build projects that demonstrate hands-on technical skills.
+- Secure a full-time entry-level role in Software Development or Cloud Engineering.
 
--Applied Java programming concepts to develop a working mobile application.
+---
 
--Practiced application development, debugging, and problem-solving in a virtual team environment.
+# 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/DivyaPriya250413/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" />
-</a>
-<a href="www.linkedin.com/in/divya-priya2026/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" />
-</a>
-<a href="https://leetcode.com/u/bharathib19/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0e27" />
+<a href="https://github.com/DivyaPriya250413">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-## 📬 Contact Me
+<a href="https://linkedin.com/in/divya-priya2026">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to say hi!
+<a href="https://www.credly.com/users/divyapriya.2026">
+<img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
 
-* **Email:** [divyapriya2026@gmail.com](mailto:divyapriya2026@gmail.com)
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0d1117&height=120&section=footer" width="100%" />
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing**
 
 </div>
