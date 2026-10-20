@@ -1,29 +1,36 @@
  <!-- Divyapriya's GitHub Profile README -->
 
 
+
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:312e81,100:2563eb&height=230&section=header&text=DIVYAPRIYA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,35:17133b,70:3730a3,100:2563eb&height=250&section=header&text=DIVYAPRIYA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=56&descSize=18&descColor=c4b5fd" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Exploring+AWS+Cloud+Computing;Building+Web+Applications;Code+%E2%80%A2+Cloud+%E2%80%A2+Create" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=A5B4FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Exploring+AWS+Cloud+Computing;Building+Web+Applications;Code+%E2%80%A2+Cloud+%E2%80%A2+Create" alt="Typing animation" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/DivyaPriya250413">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20PROJECTS-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/divya-priya2026">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/divya-priya2026">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS-CLOUD%20COMPUTING-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-312E81?style=flat-square&logo=code&logoColor=white" />
 
 </div>
 
 ---
+
 
 # 👩‍💻 About Me
 
@@ -248,12 +255,18 @@ An Android application concept for ordering food during train journeys.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0d1117&height=120&section=footer" width="100%" />
+
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,35:17133b,70:3730a3,100:2563eb&height=150&section=footer" width="100%" />
+
 ### 💜 Thanks for visiting my profile!
 
-**Keep Learning • Keep Building • Keep Growing**
+`CODE` • `CLOUD` • `CREATE`
+
+<sub> Keep Learning • Keep Building • Keep Growing </sub>
 
 </div>
+
