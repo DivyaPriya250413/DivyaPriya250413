@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### `BUILDING • LEARNING • CREATING`
+### `CODE • CLOUD • CREATE`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;AWS+Cloud+Enthusiast;Building+Web+Applications;Exploring+Cloud+Computing;Turning+Ideas+Into+Projects" />
 
