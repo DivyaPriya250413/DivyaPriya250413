@@ -1,18 +1,25 @@
  <!-- Divyapriya's GitHub Profile README -->
 
+
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=DIVYAPRIYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:312e81,100:2563eb&height=230&section=header&text=DIVYAPRIYA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%" />
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+AWS+Cloud+Computing;Building+Web+Applications;Code+%E2%80%A2+Cloud+%E2%80%A2+Create" alt="Typing animation" />
 
-### `CODE • CLOUD • CREATE`
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;AWS+Cloud+Enthusiast;Building+Web+Applications;Exploring+Cloud+Computing;Turning+Ideas+Into+Projects" />
+<a href="https://github.com/DivyaPriya250413">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/divya-priya2026">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
