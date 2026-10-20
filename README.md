@@ -7,8 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:312e81,100:2563eb&height=230&section=header&text=DIVYAPRIYA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%" />
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Exploring+AWS+Cloud+Computing;Building+Web+Applications;Code+%E2%80%A2+Cloud+%E2%80%A2+Create" alt="Typing animation" />
 
 <br/>
