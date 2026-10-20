@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+AWS+Cloud+Computing;Building+Web+Applications;Code+%E2%80%A2+Cloud+%E2%80%A2+Create" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Exploring+AWS+Cloud+Computing;Building+Web+Applications;Code+%E2%80%A2+Cloud+%E2%80%A2+Create" alt="Typing animation" />
 
 <br/>
 
