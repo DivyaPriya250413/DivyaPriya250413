@@ -25,16 +25,16 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Divyapriya**, a B.Tech Information Technology graduate interested in Software Development and Cloud Engineering.
+Hi! I'm **Divyapriya**, a B.Tech Information Technology graduate interested in Software Developer.
 
 I enjoy building web applications, exploring AWS services, and gaining hands-on experience through practical projects.
 
-- 💻 Interested in Software and Web Development
-- ☁️ Learning AWS Cloud Computing
-- 🚀 Building practical projects and cloud labs
-- 🌱 Improving my Java, JavaScript, and problem-solving skills
-- 🔐 Exploring cloud security, monitoring, and access management
-- 🎯 Looking for full-time entry-level opportunities in Software Development and Cloud Engineering
+💻 Interested in Software and Web Development
+☁️ Learning AWS Cloud Computing
+🚀 Building practical projects and cloud labs
+🌱 Improving my Java, JavaScript, and problem-solving skills
+🔐 Exploring cloud security, monitoring, and access management
+🎯 Looking for full-time entry-level opportunities in Software Development and Cloud Engineering
 
 > **"Learn continuously. Build practically. Grow confidently."**
 
@@ -168,14 +168,14 @@ An Android application concept for ordering food during train journeys.
 
 # 📜 Certifications & Badges
 
-- 🏅 AWS Certified Cloud Practitioner - Training badge / achievement
-- 🏅 AWS Certified Generative AI Practitioner - Training badge / achievement
-- ☁️ AWS Educate Introduction to Cloud 101 — Training Badge
-- 🌟 AWS Educate Getting Started with Cloud Ops - Training Badge
-- 🛜 AWS Educate Getting Started with Networking - Training Badge
-- 🗃️ AWS Educate Getting Started with Storage - Training Badge
-- 🤖 AWS Educate Introduction to Generative AI — Training Badge
-- 🌐 Responsive Web Design Certificate
+  🏅 AWS Certified Cloud Practitioner - Training badge / achievement
+  🏅 AWS Certified Generative AI Practitioner - Training badge / achievement
+  ☁️ AWS Educate Introduction to Cloud 101 — Training Badge
+  🌟 AWS Educate Getting Started with Cloud Ops - Training Badge
+  🛜 AWS Educate Getting Started with Networking - Training Badge
+  🗃️ AWS Educate Getting Started with Storage - Training Badge
+  🤖 AWS Educate Introduction to Generative AI — Training Badge
+  🌐 Responsive Web Design Certificate
 
 ---
 
@@ -204,8 +204,8 @@ An Android application concept for ordering food during train journeys.
 # 🧠 Currently Learning
 
 ```text
-☁️ AWS Cloud Computing
 💻 Java Programming
+☁️ AWS Cloud Computing
 🌐 React.js & Web Development
 🗄️ SQL & Database Management
 🔐 AWS IAM & Cloud Security
