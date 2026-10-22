@@ -40,6 +40,25 @@ I enjoy building web applications, exploring AWS services, and gaining hands-on 
 
 ---
 
+---
+
+# 👩‍💻 About Me
+
+Hi! I'm **Divyapriya**, a B.Tech Information Technology graduate interested in Software Development and Cloud Engineering.
+
+I enjoy building web applications, exploring AWS services, and gaining hands-on experience through practical projects.
+
+- 💻 Interested in Software and Web Development
+- ☁️ Learning AWS Cloud Computing
+- 🚀 Building practical projects and cloud labs
+- 🌱 Improving my Java, JavaScript, and problem-solving skills
+- 🔐 Exploring cloud security, monitoring, and access management
+- 🎯 Looking for full-time entry-level opportunities in Software Development and Cloud Engineering
+
+> **"Learn continuously. Build practically. Grow confidently."**
+
+---
+
 # 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
