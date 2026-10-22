@@ -168,8 +168,12 @@ An Android application concept for ordering food during train journeys.
 
 # 📜 Certifications & Badges
 
-- 🏅 AWS Certified Cloud Practitioner learning badge / achievement
+- 🏅 AWS Certified Cloud Practitioner - Training badge / achievement
+- 🏅 AWS Certified Generative AI Practitioner - Training badge / achievement
 - ☁️ AWS Educate Introduction to Cloud 101 — Training Badge
+- 🌟 AWS Educate Getting Started with Cloud Ops - Training Badge
+- 🛜 AWS Educate Getting Started with Networking - Training Badge
+- 🗃️ AWS Educate Getting Started with Storage - Training Badge
 - 🤖 AWS Educate Introduction to Generative AI — Training Badge
 - 🌐 Responsive Web Design Certificate
 
