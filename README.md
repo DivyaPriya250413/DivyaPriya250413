@@ -146,15 +146,6 @@ A full-stack web application for managing coffee products and customer orders.
 <tr>
 <td width="50%">
 
-### 🌐 Government Job Find Website
-
-A web project designed to help users explore government job opportunities.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
 ### 🚆 Train Food Delivery Application
 
 An Android application concept for ordering food during train journeys.
