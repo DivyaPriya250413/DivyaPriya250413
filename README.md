@@ -220,7 +220,7 @@ An Android application concept for ordering food during train journeys.
 - Develop practical software and cloud-based solutions.
 - Strengthen AWS and programming fundamentals.
 - Build projects that demonstrate hands-on technical skills.
-- Secure a full-time entry-level role in Software Development or Cloud Engineering.
+- Secure a full-time entry-level role in Software Development.
 
 ---
 
